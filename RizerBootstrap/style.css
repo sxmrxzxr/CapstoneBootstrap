@@ -1,4 +1,9 @@
-﻿html, body {
+﻿#container {
     margin: 10px;
     padding: 10px;
+}
+
+.splash {
+    padding-left : 5%;
+    padding-right: 5%;
 }

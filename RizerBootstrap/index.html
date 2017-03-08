@@ -6,15 +6,24 @@
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 </head>
-<body>
-    <div class="jumbotron">
-        <h1 class="display-3">Sam Rizer</h1>
-        <p class="lead">A Homework Assignment</p>
-        <hr class="my-2">
-        <p>
-            This website was built with Bootstrap.
-        </p>
-    </div>
+<body ng-app="">
+    <div id="container">
+        <div ng-include="'top.html'"></div>
+        <div class="jumbotron jumbotron-fluid">
+            <div id="splash">
+                <h1 class="display-3">Sam Rizer</h1>
+                <p class="lead">A Homework Assignment</p>
+                <hr class="my-2">
+                <p>
+                    This website was built with Bootstrap.
+                </p>
+                <p class="lead">
+                    <a class="btn btn-primary btn-lg" href="contact.html" role="button">Contact Me</a>
+                </p>
+            </div>
+        </div>
+    </div>    
 </body>
 </html>

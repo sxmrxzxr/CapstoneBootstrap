@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contact.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -76,6 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="style.css" />
+    <Content Include="top.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
