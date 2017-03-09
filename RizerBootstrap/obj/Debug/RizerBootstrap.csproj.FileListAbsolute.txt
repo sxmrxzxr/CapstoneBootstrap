@@ -18,3 +18,23 @@ C:\Users\tue95606\Documents\Visual Studio 2015\Projects\RizerBootstrap\RizerBoot
 C:\Users\tue95606\Documents\Visual Studio 2015\Projects\RizerBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.csprojResolveAssemblyReference.cache
 C:\Users\tue95606\Documents\Visual Studio 2015\Projects\RizerBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.dll
 C:\Users\tue95606\Documents\Visual Studio 2015\Projects\RizerBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.pdb
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\csc.exe
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\vbc.exe
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\VBCSCompiler.exe
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\RizerBootstrap.dll.config
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\RizerBootstrap.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\RizerBootstrap.pdb
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.csprojResolveAssemblyReference.cache
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.dll
+C:\Users\telec\Documents\CapstoneBootstrap\RizerBootstrap\obj\Debug\RizerBootstrap.pdb

@@ -24,13 +24,13 @@
         </form>
     </div>
     <script>
-        ValidateInput = function () {
-            if ($(txtUsername).text === null || $(pwdPassword).text === null) {
+        function ValidateInput() {
+            if ($(txtUsername).text == "" || $(pwdPassword).text == "") {
                 alert("You must enter fields!");
                 $(txtUsername).text = "";
                 $(pwdPassword).text = "";
             } else {
-                window.open("index.html");
+                window.open("index.html", "_self");
             }
         }
     </script>
