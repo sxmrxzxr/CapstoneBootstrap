@@ -67,6 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="contact.html" />
+    <Content Include="index.html" />
+    <Content Include="login.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
